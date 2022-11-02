@@ -7,6 +7,9 @@ import axios from 'axios';
 import { config } from '../config';
 import { TableHead } from '../component/TableHead';
 
+/**
+ * Author: Sakshi Kekre <sakshisanjay.kekre@sjsu.edu>
+*/
 
 const AllTweets = () => {
     const [tweets, setFile] = useState();

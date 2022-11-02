@@ -5,7 +5,9 @@ import Navbar from 'react-bootstrap/Navbar';
 import Image from 'react-bootstrap/Image';
 import Badge from 'react-bootstrap/Badge';
 import ProjectLogo from './Logo';
-
+/**
+ * Author: Raghav Sharma <raghav.sharma01@sjsu.edu>
+*/
 const Footer = () => {
     return (
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="footer">

@@ -5,7 +5,9 @@ import Badge from 'react-bootstrap/Badge';
 import Nav from 'react-bootstrap/Nav';
 import Image from 'react-bootstrap/Image';
 import ProjectLogo from './Logo';
-
+/**
+ * Author: Raghav Sharma <raghav.sharma01@sjsu.edu>
+*/
 const Header = () => {
     return (
         <Navbar expand="lg" bg="dark" variant="dark">

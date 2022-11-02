@@ -1,5 +1,7 @@
 import React from 'react';
-
+/**
+ * Author: Rama Sai Gurunadh Dara <ramasaigurunadh.dara@sjsu.edu>
+*/
 const Home = () => {
     return <div className="container">
         <div className="row">

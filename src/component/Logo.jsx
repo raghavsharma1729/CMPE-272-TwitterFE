@@ -1,6 +1,8 @@
 import React from 'react';
 import { Badge, Image } from 'react-bootstrap';
-
+/**
+ * Author: Raghav Sharma <raghav.sharma01@sjsu.edu>
+*/
 
 const ProjectLogo = () => {
     return (

@@ -5,8 +5,10 @@ import { Button, Form } from 'react-bootstrap';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { config } from "../config";
-// import { Client, auth } from "twitter-api-sdk";
 
+/**
+ * Author: Raghav Sharma <raghav.sharma01@sjsu.edu>
+*/
 function MyForm() {
     const [inputs, setInputs] = useState({});
 

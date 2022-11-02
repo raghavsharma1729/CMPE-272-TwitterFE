@@ -2,7 +2,9 @@ import React from 'react';
 import Button from 'react-bootstrap/Button';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-
+/**
+ * Author: Rama Sai Gurunadh Dara <ramasaigurunadh.dara@sjsu.edu>
+*/
 const FileTile = ({ id, authorId, description }) => {
 
     const navigate = useNavigate();

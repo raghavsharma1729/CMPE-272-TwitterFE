@@ -4,6 +4,10 @@ import { Row, Col, Image, Button } from 'react-bootstrap';
 import { config } from '../config';
 import axios from 'axios';
 
+/**
+ * Author: Nohar Reddy Gurrala <noharreddy.gurrala@sjsu.edu>
+*/
+
 const Home = () => {
     const navigate = useNavigate();
     const createTweet = () => {
